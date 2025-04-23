@@ -1,3 +1,5 @@
 # Superstore-dataset-analysis
-![Alt text](Screenshot(344).png)
-![Alt text](Screenshot(345).png)
+
+Here’s an analysis preview:
+
+![My Picture](Screenshot(344).png)
