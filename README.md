@@ -2,4 +2,4 @@
 
 Here’s an analysis preview:
 
-![My Picture](Screenshot (344).png)
+![](C:\Users\91812\OneDrive\Pictures\Screenshots\Screenshot (344).png)
